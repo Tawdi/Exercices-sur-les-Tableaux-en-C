@@ -1,0 +1,53 @@
+#include<stdio.h>
+
+int main(){
+    int i;
+
+    // challange 1
+    int tab1[5] = {1, 2, 3, 4, 5};
+    for (i = 0; i < 5; i++)
+    {
+        printf(" %d \n", tab1[i]);
+    }
+
+    // challange 2
+    int nbr_elm = -1;
+    int tab2[100];
+
+    printf("entrer le nombre d'elements (>100): ");
+    scanf("%d", &nbr_elm);
+
+    printf("Saisie des Éléments :");
+    for (i = 0; i < nbr_elm; i++)
+    {
+        printf(" %d \n", tab2[i]);
+    }
+
+    // challange 3
+
+    // challange 4
+
+    // challange 5
+
+    // challange 6
+
+    // challange 7
+
+    // challange 8
+
+    // challange 9
+
+    // challange 10
+
+    // challange 11
+
+    // challange 12
+
+    // challange 13
+
+    // challange 14
+
+    // challange 15
+
+    return 0;
+}
